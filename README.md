@@ -23,7 +23,7 @@ pip install pandas tkinter pypxlib openpyxl
 1. Execute o script `python`:
 
    ```bash
-   python script.py
+   python conversor.py
    ```
 
 2. Uma janela será aberta para selecionar o arquivo `.db`.
